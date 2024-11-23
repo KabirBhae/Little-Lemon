@@ -1,0 +1,21 @@
+.navbar-container {
+	display: flex;
+	justify-content: center;
+}
+.navbar-items {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: stretch;
+	align-items: center;
+}
+.navbar-items li {
+	list-style-type: none;
+}
+.navbar-items a {
+	display: inline-block;
+	padding: 25px;
+	margin: 0 25px;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+}
