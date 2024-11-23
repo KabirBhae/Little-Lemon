@@ -4,7 +4,7 @@
 	margin-bottom: 140px;
 	padding: 2%;
 	display: flex;
-	justify-content: space-between;
+	/* justify-content: space-between; */
 	align-items: center;
 }
 #restaurant-description {
@@ -25,18 +25,20 @@ p {
 	margin: 10px 0;
 }
 #reserve-table {
-	background-color: #f4ce14;
+	width: 22%;
+	height: 20px;
 	color: black;
-	width: 35%;
-	height: 1 5%;
+	background-color: #f4ce14;
+	padding: 10px 20px;
 	border: none;
 	border-radius: 5%;
 	font-family: marzaki-text;
 	font-size: 18px;
+	text-decoration: none;
 }
 #restaurant-img {
 	width: 30%;
-	margin-left: 20%;
+	margin-left: 17%;
 	position: relative;
 }
 #restaurant-img img {

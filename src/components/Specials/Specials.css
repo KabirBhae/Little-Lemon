@@ -1,7 +1,7 @@
 #menu-section {
 	display: flex;
 	flex-direction: column;
-	margin: 0 16%;
+	margin: 0 20% 50px;
 }
 #menu-section-header {
 	display: flex;
@@ -9,14 +9,16 @@
 	align-items: center;
 }
 #online-menu {
-	background-color: #f4ce14;
 	color: black;
-	width: 15%;
-	height: 40px;
+	background-color: #f4ce14;
+	height: 20px;
+	width: 11%;
+	padding: 10px 15px;
 	border: none;
 	border-radius: 10%;
 	font-family: marzaki-text;
 	font-size: 18px;
+	text-decoration: none;
 }
 #menu-section-body {
 	margin-top: 50px;
@@ -31,7 +33,7 @@
 	border-radius: 10%;
 }
 .body-cards img {
-	height: 35%;
+	height: 38%;
 	border-radius: 10%;
 }
 .card-title {
@@ -43,6 +45,6 @@
 	color: #ee9972;
 }
 .card-text {
-	margin: 0 10%;
+	margin: 0 15%;
 	color: black;
 }
