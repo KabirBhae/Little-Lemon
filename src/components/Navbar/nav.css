@@ -14,7 +14,7 @@
 .navbar-items a {
 	display: inline-block;
 	padding: 25px;
-	margin: 0 25px;
+	/* margin: 0 25px; */
 	text-align: center;
 	text-decoration: none;
 	color: black;

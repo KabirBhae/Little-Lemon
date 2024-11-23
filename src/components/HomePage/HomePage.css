@@ -1,7 +1,7 @@
 #banner {
 	background-color: #495e57;
 	height: 170px;
-	margin-bottom: 120px;
+	margin-bottom: 140px;
 	padding: 2%;
 	display: flex;
 	justify-content: space-between;
@@ -28,21 +28,21 @@ p {
 	background-color: #f4ce14;
 	color: black;
 	width: 35%;
-	height: 15%;
+	height: 1 5%;
 	border: none;
 	border-radius: 5%;
 	font-family: marzaki-text;
 	font-size: 18px;
 }
 #restaurant-img {
-	width: 40%;
-	/* margin-right: 10%; */
+	width: 30%;
+	margin-left: 20%;
 	position: relative;
 }
 #restaurant-img img {
 	position: absolute;
 	top: -50px;
-	left: 0;
+	/* left: 0; */
 	height: 270px;
 	width: 50%;
 	border-radius: 10%;
