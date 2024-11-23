@@ -3,7 +3,10 @@ import "./nav.css"
 function Nav() {
 	return (
 		<nav className="navbar-container">
-			<img src="../../Assets/Logo.svg" alt="" />
+			<a className="log" href="/">
+				<img href="/" src="../../Assets/Logo.svg" alt="" />
+			</a>
+
 			<ul className="navbar-items">
 				<li>
 					<a href="/">HOME</a>
