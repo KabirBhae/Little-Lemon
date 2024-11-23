@@ -1,0 +1,50 @@
+#banner {
+	background-color: #495e57;
+	height: 170px;
+	margin-bottom: 120px;
+	padding: 2%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+#restaurant-description {
+	width: 40%;
+	margin-left: 10%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: start;
+}
+#restaurant-description h2 {
+	color: #f4ce14;
+	margin: 10px 0;
+}
+#restaurant-description h4,
+p {
+	color: white;
+	margin: 10px 0;
+}
+#reserve-table {
+	background-color: #f4ce14;
+	color: black;
+	width: 35%;
+	height: 15%;
+	border: none;
+	border-radius: 5%;
+	font-family: marzaki-text;
+	font-size: 18px;
+}
+#restaurant-img {
+	width: 40%;
+	/* margin-right: 10%; */
+	position: relative;
+}
+#restaurant-img img {
+	position: absolute;
+	top: -50px;
+	left: 0;
+	height: 270px;
+	width: 50%;
+	border-radius: 10%;
+	/* content: overflow; */
+}

@@ -1,5 +1,9 @@
+import Specials from "./Specials/Specials"
+
 function Main() {
-	return <main></main>
+	return (
+	<Specials></Specials>
+)
 }
 
 export default Main
