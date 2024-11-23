@@ -2,8 +2,8 @@ footer {
 	margin-top: auto;
 	padding: 20px;
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	align-items: start;
-	gap: 5%;
+	gap: 45%;
 	background-color: #fbdabb;
 }
